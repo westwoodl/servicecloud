@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: servicecloud-config-dept-client
+
